@@ -1,0 +1,5 @@
+Ingredients:
+    tea leaves
+    hot water
+Directions:
+    add hot water to the tea leaves
